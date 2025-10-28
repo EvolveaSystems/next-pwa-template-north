@@ -7,7 +7,6 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "preinstall": "node preinstall.js"
   },
   "dependencies": {
     "next": "12.1.6",
